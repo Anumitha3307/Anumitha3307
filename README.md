@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Anumitha3307/Anumitha3307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Anumitha  
 
-Here are some ideas to get you started:
+🎓 B.Tech student at NIT Andhra Pradesh  
+💻 Learning *C, Java & DSA* in college  
+🚀 Exploring *AI and Cloud Computing*  
+🎮 Built a fun project *C Arcade* during Techkriya (CSEA) in my 1st year  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Working On  
+- Improving problem-solving skills in DSA  
+- Learning AI basics and cloud concepts  
+
+### 🤝 Interests  
+- Coding competitions & hackathons  
+- Peer learning & group projects  
+- Open-source contribution (soon 🚀)  
+
+### 📫 Let’s Connect!  
+- [LinkedIn](https://www.linkedin.com/in/gowni-anumitha-reddy-077250326/)  
+- [GitHub](https://github.com/Anumitha3307)
